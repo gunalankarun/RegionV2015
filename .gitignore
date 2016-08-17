@@ -2,3 +2,4 @@ data.txt
 temp.png
 .*.swp
 *.tif
+.DS_STORE
